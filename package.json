@@ -1,5 +1,5 @@
 {
-    "name": "static-site",
+    "name": "Employee-Tracker",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -9,6 +9,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
+        "dotenv": "^16.4.1",
         "inquirer": "^8.2.4",
         "mysql2": "^3.7.1"
     }
